@@ -1,0 +1,1 @@
+# Tutorial4-Scale-Synapse-DedicatedSQLPool-From-Data-Factory
