@@ -1,0 +1,4 @@
+https://management.azure.com/subscriptions/{subscriptionId}/
+resourceGroups/{resourceGroupName}/
+providers/Microsoft.Synapse/workspaces/{workspaceName}/
+sqlPools/{sqlPoolName}?api-version=2021-06-01
